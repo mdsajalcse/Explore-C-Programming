@@ -6,8 +6,6 @@ int main(){
   double myDoubleNum=10.888888;
   char myCharLetter='A';
 
-
-
  //size of data type
   printf("Size of int is::%d\n", sizeof(myIntNum));
   printf("Size of Float is:: %d\n", sizeof(myFloatNum));
